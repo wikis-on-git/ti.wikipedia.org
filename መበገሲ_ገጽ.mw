@@ -13,3 +13,60 @@ Please use UTF-8 for the charactes used by Tigrinya language, it works perfectly
 የጽሁፎችን አጻጻፍ ለመማር [[:en:Wikipedia:How to edit a page|እዚህ]] ይሂዱ።
 
 እንዴትዊኪፔዲያን በአማርኛ ለማረግ [[:en:Wikipedia:Create a new language in Wikipedia አዲስ ቋንቋ በ ዊኪፔዲያ ይፍጠሩ |እዚህ]] ይሂዱ።
+<!-- Anything you add on this page MUST FIT the 800x600 screen -->
+<div style="clear: both; border: 2px solid #ffe2e2; margin: 0em; background-color: #fff5f5; padding-bottom: 0.5em;">
+<div style="background: #ffe2e2; padding-top: 0.1em; padding-bottom: 0.1em; text-align: center; font-size: larger; width: 100%">'''Selected Articles'''</div>
+<div style="padding-top: 0.4em; padding-bottom: 0.3em;"><table border=0 align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" align="right">'''[[Current events|In the news]]''':&nbsp;</td>
+<td>
+
+<!-- add newer articles at the beginning, delete from end -->
+<tr>
+<tr>
+<td valign="top" align="right">'''[[Recent deaths|Recent&nbsp;deaths]]''':&nbsp;</td>
+<td>
+
+<!-- add newer articles at the beginning, delete from end -->
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">'''[[Special:Newpages|New&nbsp;articles]]''':&nbsp;</td>
+<td>
+<!-- add newer articles at the beginning, delete from end -->
+
+</td></tr>
+<tr>
+<td valign="top" align="right">
+'''[[Wikipedia:Brilliant_prose|Featured&nbsp;articles]]''':&nbsp;</td>
+<td>
+<!-- add newer articles at the beginning, delete from end -->
+</td></tr>
+<tr>
+<td valign="top" align="right">'''[[List of historical anniversaries | Anniversaries]]''':&nbsp;</td>
+<td>
+[[{{CURRENTMONTHNAME}} {{CURRENTDAY}}]] ,[[{{CURRENTYEAR}}]] -
+<!-- LIST ONLY EVENTS; no births or deaths (except murders/assassinations/executions) -->
+<!-- Articles listed MUST have a RECENT DAY LINK and context -->
+<!-- See the Selected Articles guideline page for specifics -->
+</td></tr>
+</table></div></div>
+
+
+<table cellpadding="0" cellspacing="0" border="0">
+<tr valign="top"><th style="background-color: #e2e2ff; border: 2px solid #e2e2ff; border-bottom: none; padding-top: 0.3em; padding-bottom: 0.3em; font-size: large;" align="center" width="53%">
+'''Encyclopedia'''
+</th>
+<th>&nbsp;</th>
+<th style="background-color: #faf9b2; border: 2px solid #faf9b2; border-bottom: none; padding-top: 0.3em; padding-bottom: 0.3em; font-size: large;" align="center">
+'''Community'''
+</th>
+</tr>
+<tr valign="top"><td style="background-color: #f8f8ff; border: 2px solid #e2e2ff; border-top: none; padding: 0.6em; padding-top: none;">
+
+===Mathematical and Natural Sciences===
+[[አስትሮኖሚ]] - [[ባዮሎጂ]] - [[ኬሚስትሪ]] - [[Computer science]] - [[Earth science]] - [[Ecology]] - [[Health science]] - [[ሂሰብ]] - [[ፊዚክስ]] - [[እስታቲስቲክስ]]
+
+===Applied Arts and Sciences===
+[[የርሻ፡ተግባር]] - [[የሕንጻ፡ጥበብ]] - [[ንግድ]] - [[መገናኛ]] - [[ትምህርት]] - [[Engineering]] - [[Family and consumer science]] - [[መንግሥት]] - [[የጥብቅና፡ሥራ]] - [[Library and information science]] - [[ሕክምና]] - [[ፖለቲካ]] - [[Public affairs]] - [[Software engineering]] - [[Technology]] - [[ማጓጓዝ]]
