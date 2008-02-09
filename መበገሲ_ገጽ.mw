@@ -46,11 +46,11 @@
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;"> እዋናዊ ዛዕባ </h2>
 |-
-|style="color:#000;"| {{Wikipedia:Today's featured article/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
+|style="color:#000;"| {{ዊኪፔዲያ:/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
 |-
 ! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">ትፈልጡ ዶ?...</h2>
 |-
-|style="color:#000;"| {{ዛዕባ}}
+|style="color:#000;"|{{ዛዕባ}}
 |-
 |}
 <!----------------------------------In the news, On this day------------------------------->
