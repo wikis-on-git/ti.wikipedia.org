@@ -34,11 +34,11 @@
 |}
 <!------------Strapline immediately below banner-------
 {|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
-|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[Wikipedia:About|Overview]]&nbsp;'''·''' [[Wikipedia:Tutorial|Editing]]&nbsp;'''·''' [[Wikipedia:Questions|Questions]]&nbsp;'''·''' [[Help:Contents|Help]]
+|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"| [[Wikipedia:About|Overview]]&nbsp;'''·''' [[Wikipedia:Tutorial|Editing]]&nbsp;'''·''' [[Wikipedia:Questions|Questions]]&nbsp;'''·''' [[Help:Contents|Help]]--->
 |style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
 [[Portal:Contents|Contents]]&nbsp;'''·''' [[Portal:Contents/Categorical index|Categories]]&nbsp;'''·''' [[Portal:Featured content|Featured content]]&nbsp;'''·''' [[Wikipedia:Quick index|A–Z index]]
 |}
-{{Main Page banner}}--->
+{{Main Page banner}}
 <!---------------------------Today's featured article, Did you know------------------------>
 {|style="border-spacing:8px; margin:0px -8px;"
 |class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
