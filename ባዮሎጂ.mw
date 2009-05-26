@@ -1,11 +1,11 @@
 <div class="thumb tright">
 <div style="width:280px;">
 {|  
-|valign="top"|[[Image:Thompson's_Gazelle.jpeg|125px]]
-|valign="top"|[[Image:Yanagi.jpg|125px]]
+|valign="top"|[[File:Thompson's_Gazelle.jpeg|125px]]
+|valign="top"|[[File:Yanagi.jpg|125px]]
 |-
-|valign="bottom"|[[Image:Goliath_beetle.jpg|125px]]
-|valign="bottom"|[[Image:EscherichiaColi NIAID.jpg|125px]]
+|valign="bottom"|[[File:Goliath_beetle.jpg|125px]]
+|valign="bottom"|[[File:EscherichiaColi NIAID.jpg|125px]]
 |}
 </div>
 <div class="thumbcaption" style="width:280px;"></div>
@@ -52,7 +52,7 @@
 [[es:Biología]]
 [[et:Bioloogia]]
 [[eu:Biologia]]
-[[ext:Biolohia]]
+[[ext:Biologia]]
 [[fa:زیست‌شناسی]]
 [[fi:Biologia]]
 [[fiu-vro:Bioloogia]]
