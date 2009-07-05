@@ -31,19 +31,19 @@ http://www.bilder-hochladen.net/files/bjeu-2-jpg.html
 
 function divide(left, right)  {
      i := left 
-     // ካብቲ ቀንዲ ባእታ ብጸጋም ዘሎ ‚j’ ይጀምር፥
+// ካብቲ ቀንዲ ባእታ ብጸጋም ዘሎ ‚j’ ይጀምር፥
      j := right - 1
      pivot := files[right]
 
      loop
 
-         // ካብቲ ቀንዲ ባእታ ዝዓበየ ባእታ ኣብ ጸጋም ዘሎ ይደሊ፥
+// ካብቲ ቀንዲ ባእታ ዝዓበየ ባእታ ኣብ ጸጋም ዘሎ ይደሊ፥
 
          loop while files[i] ≤ pivot and i < right
              i := i + 1  
          end
 
-         // ካብቲ ቀንዲ ባእታ ዝነኣሰ ባእታ ኣብ የማን ዘሎ ይደሊ፥
+// ካብቲ ቀንዲ ባእታ ዝነኣሰ ባእታ ኣብ የማን ዘሎ ይደሊ፥
 
          loop while files[j] ≥ pivot and j > left
              j := j - 1 
@@ -51,15 +51,16 @@ function divide(left, right)  {
 
          if i ≤ j then swap files[i] with files[j]
 
-     while i ≤ j // እቲ ‘i’ kabti ‘j’ ከይሓለፈ ከሎ
+// እቲ ‘i’ ካብቲ ‘j’ ከይሓለፈ ከሎ 
+     while i ≤ j
 
-     // ነቲ ቀንዲ ባእታ (files[right]) ምስ ሓድሽ ውሱን ኣቀማምጣ (files[i]) ይለዋወጥ፥
+// ነቲ ቀንዲ ባእታ (files[right]) ምስ ሓድሽ ውሱን ኣቀማምጣ (files[i]) ይለዋወጥ፥
    
      if files[i] > pivot 
              swap files[i] with files[right] 
      end
      
-     // ነቲ ቦታ ናይቲ ቀንዲ ባእታ ይመልስ፥
+// ነቲ ቦታ ናይቲ ቀንዲ ባእታ ይመልስ፥
     
      return i
  end
@@ -74,8 +75,11 @@ function quicksort(left, right)
      while right > left loop
          divider := divide (left, right)
          if right-divider > divider-left
-            quicksort(left, divider - 1) // እቲ ዝንእስ ክፋል እንደገና …
-            left := divider + 1  // … እቶም ዝዕብይ ከኣ ይሰርዕ
+// እቲ ዝንእስ ክፋል እንደገና …
+            quicksort(left, divider - 1) 
+// … እቶም ዝዕብይ ከኣ ይሰርዕ
+            left := divider + 1 
+
          else
             quicksort(divider + 1, right)
             right := divider - 1
