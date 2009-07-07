@@ -27,13 +27,11 @@
 ስነ-ሎምፒተር ብዘይ ሕሳብ ሙት እዩ።
 
 
+
 መብርሂ ናይ ክዊክሶርት፥
 
-http://www.bilder-hochladen.net/files/bjeu-2-jpg.html
 
-ስእሊ ክመጽእ እዩ...
-
-
+[[Image:quicksort.jpg|center|700px|]]
 
 
 እቲ ዝስዕብ ኣገባብ (= function) ነቲ ቀንዲ ባእታ ይደሊ፣ 
@@ -42,60 +40,8 @@ http://www.bilder-hochladen.net/files/bjeu-2-jpg.html
 
 ቀንዲ ባእታ = Pivot 
 
-function divide(left, right)  {
-     i := left 
-// ካብቲ ቀንዲ ባእታ ብጸጋም ዘሎ ‚j’ ይጀምር፥
-     j := right - 1
-     pivot := files[right]
-
-     loop
-
-// ካብቲ ቀንዲ ባእታ ዝዓበየ ባእታ ኣብ ጸጋም ዘሎ ይደሊ፥
-
-         loop while files[i] ≤ pivot and i < right
-             i := i + 1  
-         end
-
-// ካብቲ ቀንዲ ባእታ ዝነኣሰ ባእታ ኣብ የማን ዘሎ ይደሊ፥
-
-         loop while files[j] ≥ pivot and j > left
-             j := j - 1 
-         end  
-
-         if i ≤ j then swap files[i] with files[j]
-
-// እቲ ‘i’ ካብቲ ‘j’ ከይሓለፈ ከሎ 
-     while i ≤ j
-
-// ነቲ ቀንዲ ባእታ (files[right]) ምስ ሓድሽ ውሱን ኣቀማምጣ (files[i]) ይለዋወጥ፥
-   
-     if files[i] > pivot 
-             swap files[i] with files[right] 
-     end
-     
-// ነቲ ቦታ ናይቲ ቀንዲ ባእታ ይመልስ፥
-    
-     return i
- end
-
-}
+[[Image:quicksort2.jpg|center|700px|]]
 
 
 
-ሕጂ እቲ ዝስዕብ ኣገባብ ነቲ ምሉእ ክዊክሶርት ምስቲ ላዕላዋይ ኣገባብ ብሓፈሽኡ ይገልጽ፥
-
-function quicksort(left, right)
-     while right > left loop
-         divider := divide (left, right)
-         if right-divider > divider-left
-// እቲ ዝንእስ ክፋል እንደገና …
-            quicksort(left, divider - 1) 
-// … እቶም ዝዕብይ ከኣ ይሰርዕ
-            left := divider + 1 
-
-         else
-            quicksort(divider + 1, right)
-            right := divider - 1
-         end
-     end
- end
+[[Image:quicksort3.jpg|center|700px|]]
