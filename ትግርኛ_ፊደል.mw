@@ -1,20 +1,17 @@
 ትግርኛ ፊደል
 
-{| class="wikitable" style="text-align:center;"
-!width="5%"|&nbsp;
-!width="5%"|ä
-!width="5%"|u
-!width="5%"|i
-!width="5%"|a
-!width="5%"|e
-!width="5%"|{{IPA|(ǝ)}}
+{| class="wikitabhhsowiso
+----
+
+----
+
 !width="5%"|o
 |-
 !h
 |style="background:silver"|ሀ||ሁ||ሂ||ሃ||ሄ||ህ||ሆ
 |-
 !l
-|ለ||ሉ||ሊ||ላ||ሌ||ል||ሎ
+|ለ||ሉ||ሊ||jss
 |-
 !{{Unicode|ḥ}}
 |style="background:silver"|ሐ||ሑ||ሒ||ሓ||ሔ||ሕ||ሖ
