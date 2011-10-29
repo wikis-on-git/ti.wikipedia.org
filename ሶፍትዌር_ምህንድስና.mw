@@ -1,6 +1,8 @@
 ሶፍትዌር ምህንድስና
 {{stub}}
+፫ ሓምለ ፳፻፱
 
+                                                                
 ክዊክሶርት / Quicksort          
 
 ኣብ ስነ-ኮምፒተር እቲ ክዊክሶርት ኣገባብ ሓደ ካብቶም ዝቀልጠፉ ኣገባባት እዩ
@@ -10,7 +12,7 @@
 
 መፍትሒ ናይ ክዊክሶርት እቲ ክልሰ-ሓሳብ „መቀለ ድሓር ሰፈነ“ (= divide and conquer) እዩ። ቅድም ነቲ ዓቢ ሽግር ኣብ ንኣሽቱ ሽግራት ትመቅሎ፣ ድሓር ነቶም ንኣሽቱ ሽግራት ንምፍታሕ ይቀልል እዩ። ሽዑ ስጉም ብስጉም ነቲ ዓቢ ሽግር ትፈትሖ ማለት እዩ። ስለዚ ከኣ እዚ ኣገባብ „መቀለ ድሓር ሰፈነ“ ይበሃል፥  
 
-ሓደ ባእታ ካብቲ ዓውዲ ትወስድ (ኣየናይ ባእታ ከምትወስድ ኣገዳሲ ኣይኮነን) ነቲ ዓውዲ'''Bold text''' ምእንቲ ኣብ መኣከሉ ክ'''Bold text'''ትመቅሎ። 
+ሓደ ባእታ ካብቲ ዓውዲ ትወስድ (ኣየናይ ባእታ ከምትወስድ ኣገዳሲ ኣይኮነን) ነቲ ዓውዲ ምእንቲ ኣብ መኣከሉ ክትመቅሎ። 
 ድሓር ነቶም ካልኦት ካብቲ ቀንዲ ባእታ ዝንእሱ ባእታታት ኣብ ጸጋም ትገብሮም፣ 
 ነቶም ካልኦት ካብቲ ቀንዲ ባእታ ዝዓበዩ ባእታታት ኣብ የማን ትገብሮም። 
 ድሓር ልክዕ ነዚ ዕማም ትደግሞ፣ ነቲ ሓድሽ ዝወጸ ክፋል ናይቲ ዓውዲ ትመቅሎ፣ ሽዑ ነቲ ሓድሽ ክፋል ትሰርዖ።
@@ -43,58 +45,3 @@
 
 
 [[Image:quicksort3.jpg|center|700px|]]
-
-[[af:Sagteware-ingenieurswese]]
-[[am:የሶፍትዌር አሠራር]]
-[[ar:هندسة البرمجيات]]
-[[ast:Inxeniería del software]]
-[[bg:Софтуерно инженерство]]
-[[bs:Softverski inženjering]]
-[[ca:Enginyeria de programari]]
-[[cs:Softwarové inženýrství]]
-[[da:Softwareudvikling]]
-[[de:Softwaretechnik]]
-[[el:Μηχανική λογισμικού]]
-[[en:Software engineering]]
-[[es:Ingeniería de software]]
-[[eu:Software-ingeniaritza]]
-[[fa:مهندسی نرم‌افزار]]
-[[fi:Ohjelmistotuotanto]]
-[[fr:Génie logiciel]]
-[[ga:Innealtóireacht bogearraí]]
-[[gl:Enxeñaría de software]]
-[[gv:Jeshaghteyrys cooid vog]]
-[[he:הנדסת תוכנה]]
-[[hi:सॉफ्टवेयर इंजीनियरी]]
-[[hr:Programsko inženjerstvo]]
-[[id:Rekayasa perangkat lunak]]
-[[is:Hugbúnaðarverkfræði]]
-[[it:Ingegneria del software]]
-[[ja:ソフトウェア工学]]
-[[ko:소프트웨어 공학]]
-[[lo:Software engineering]]
-[[lt:Programų inžinerija]]
-[[lv:Programminženierija]]
-[[ml:സോഫ്റ്റ്വെയർ എഞ്ചിനീയറിങ്]]
-[[mn:Програм хангамжийн инженерчлэл]]
-[[ms:Pembangunan perisian]]
-[[nl:Software engineering]]
-[[no:Programvareutvikling]]
-[[pl:Inżynieria oprogramowania]]
-[[pt:Engenharia de software]]
-[[ro:Inginerie software]]
-[[ru:Инженерия программного обеспечения]]
-[[si:මෘදුකාංග ඉංජිනේරු ශිල්පය]]
-[[sk:Softvérové inžinierstvo]]
-[[sq:Inxhinieria Softuerike]]
-[[sr:Инжењеринг софтвера]]
-[[su:Rékayasa software]]
-[[sv:Programvaruutveckling]]
-[[sw:Uundaji bidhaa pepe za tarakilishi]]
-[[ta:மென்பொருட் பொறியியல்]]
-[[th:วิศวกรรมซอฟต์แวร์]]
-[[tl:Software engineering]]
-[[tr:Yazılım mühendisliği]]
-[[vi:Công nghệ phần mềm]]
-[[yi:ווייכווארג אינזשעניריע]]
-[[zh:软件工程]]
