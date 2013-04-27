@@ -1,4 +1,14 @@
-!width="5%"|u
+* Bulleted list item<sub
+:>
+#Numbered list item>Indented line</sub><sub><big>Subscript text</big></sub
+<nowiki>
+:Insert non-formatted text here
+# Numbered list item
+* Bulleted list item
+<br />
+<br />
+<br />
+</nowiki>!width="5%"|u
 !width="5%"|i
 !width="5%"|a
 !width="5%"|e
@@ -45,8 +55,8 @@
 !t
 |||ቱ||ቲ||ታ||ቴ||ት||ቶ||ቷ
 |-
-!č
-|ቸ||ቹ||ቺ||ቻ||ቼ||ች||ቾ||ቿ
+!čች
+|ቸ||ቹ||ቺ||ቻ||ቼ||||ቾ||ቿ
 |-
 !h
 |ኀ||ኁ||ኂ||ኃ||ኄ||ኅ||ኆ
