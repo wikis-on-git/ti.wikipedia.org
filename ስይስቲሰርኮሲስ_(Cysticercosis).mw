@@ -1,7 +1,7 @@
-{{Infobox disease
-  | Name           = Cysticercosis
-  | Image          = Neurocysticercosis.gif
-  | Caption        = Magnetic resonance image in a person with neurocysticercosis showing many cysts within the brain.
+{{infobox disease
+  | name           = Cysticercosis
+  | image          = Neurocysticercosis.gif
+  | caption        = Magnetic resonance image in a person with neurocysticercosis showing many cysts within the brain.
   | ICD10          = {{ICD10|B|69||b|65}}
   | ICD9           = {{ICD9|123.1}}
   | ICDO           =
