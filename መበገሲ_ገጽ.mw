@@ -4,7 +4,7 @@
 <!-----    ምትእትታው ሓተታ   ----->
 {| id="mp-left" style="vertical-align:top; background:#FFFFE0; border-spacing: 0px;"
 ! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; vertical-align:middle;" |<div style="float:left;">[[ፋይል:Nuvola filesystems services.svg|38px|]]</div>
-! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding: 0 0 0 10px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" | <big>ንዕለት ዝተመርጸ ጽሑፍ</big>
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding: 0 0 0 10px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%; text-align: left" | <big>ንዕለት ዝተመርጸ ጽሑፍ</big>
 |-
 | colspan="2" |<div style="text-align:left; font-size:95%;"><div id="mf-tfa" title="ንዕለት ዝተመርጸ ጽሑፍ">
 <div style="top:+0.2em; font-weight:100;  font-size:100%; padding:2% 8% ">
@@ -17,7 +17,7 @@
 <!-----    መደባት ---->
 {| id="mp-left" style="vertical-align:top; background:#f5fffa; border-spacing: 0px;"
 ! style="background:#a5e085; border:1px solid #99CC33; border-right:0px; padding:0px; vertical-align:middle;" |<div style="float:left;">[[ፋይል:Portal.svg|43px|]]</div>
-! style="background:#a5e085; border:1px solid #99CC33; border-left:0px; padding:0 0 0 10px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" | <big>ናይ መደባት ዝርዝር</big>
+! style="background:#a5e085; border:1px solid #99CC33; border-left:0px; padding:0 0 0 10px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%; text-align: left" | <big>ናይ መደባት ዝርዝር</big>
 |-
 | colspan="2" |<div style="text-align:left; font-size:95%;"><div id="mf-otd" title="ናይ መደባት ዝርዝር">
 <div style="height: 370px; vertical-align:center; overflow: hidden; padding: 10px; background:transparent ; border: 0px solid #f5fffa;"> <br>  {{WikipediaTOC}}</div>
@@ -32,11 +32,9 @@
 | style="width:50%; background:#f5faff; border:1px solid #8cc2ff; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
 {| id="mp-left" style="vertical-align:top; background:#f5faff; width:100%; border-spacing:0px;"
 ! style="background:#cedff2; border:1px solid #8cc2ff; border-right:0px; padding:0px; vertical-align:middle;" |<div style= "float:left;">[[ፋይል:Nuvola apps kedit.svg|38px|]]</div>
-! style="background:#cedff2; border:1px solid #8cc2ff; border-left:0px; padding:0px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" |<big>ኣንብብ፣ ጸሓፍ፣ ትሳተፍ።</big>
+! style="background:#cedff2; border:1px solid #8cc2ff; border-left:0px; padding:0px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%; text-align: left" | <big>‏ ‏‏ ‏ኣንብብ፣ ጸሓፍ፣ ትሳተፍ</big>
 |-
-|
-| colspan=2 style="color:#000; background:#f5faff; padding:2% 7.5%" | 
-
+| colspan=2 |<div style="text-align:left; font-size:95%; padding:2% 7.5%"><div id="mf-tfa" title="ኣንብብ፣ ጸሓፍ፣ ትሳተፍ">
 <div id="my_area" align="center">  <div id="mp-tfa1" style="align:center;border:0px outset #eeeeee; height: 410px; overflow:hidden;vertical-align:Center; padding:2px 0px; background:transparent; -moz-border-radius: 1em; -webkit-border-radius: 1em; border-radius:1em;">
 ‏<div id="my_area1" style="overflow:hidden; text-align:left; height: 400px;"> '''ዊኪፔዲያ ብትግርኛ ኣብ 29 ለካቲት 2004 ተጀመረ። ንሱ ኣብዚ ጊዜ [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] ጽሑፋት ኣለዎ።''' <br /><br> '''ዊኪፔዲያ'''  [[m:List of Wikipedias|ዓለም-ለኻዊ]] ናይ ፍልጠት  መኽዘን መርበብ ገጽ እዩ።  ዊኪፔዲያ ሓባራዊ እዩ። ኩሉ ሰብ ኣብ መዝገበ ፍልጠት ንክሳተፍ ዝተፈቐደ ኣሎ።
 
@@ -46,9 +44,9 @@
 <!-----    ብሉጽ ምስሊ    ----->
 {| id="mp-left" style="vertical-align:top; background:#faf5ff; border-spacing: 0px;"
 ! style="background:#ddcef2; border:1px solid #CC99FF; border-right:0px; padding:0px; vertical-align:middle;" |<div style="float:left;">[[ፋይል:Image-x-generic.svg|38px|]]</div>
-! style="background:#ddcef2; border:1px solid #CC99FF; border-left:0px; padding:0px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" | <big>ንዕለት ዝተመርጸ ምስሊ</big>
+! style="background:#ddcef2; border:1px solid #CC99FF; border-left:0px; padding:0px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%; text-align: left" | <big>ንዕለት ዝተመርጸ ምስሊ</big>
 |-
-| colspan=2 style="color:#000; background:#faf5ff; padding:8%; width:100%" |<div style="text-align:left; font-size:100%; align: center;"><center>
+| colspan=2 style="color:#000; background:#faf5ff; padding: 8%; width:100%" |<div style="text-align:left; font-size:100%; align: center"><div id="mf-tfa" title="ንዕለት ዝተመርጸ ምስሊ"><center>
 <div style="height: 300px;  width: 400px; vertical-align:center; overflow: hidden; padding: 10px; background:transparent ; border: 0px solid #f5fffa;">
 {{POTD commons|thumb=no|title=no|float=center}}
 <!-- {{Special:NewPages/5}}--> </center>
