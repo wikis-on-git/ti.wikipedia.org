@@ -1,81 +1,74 @@
-__NOTOC__
-<div id="mainpage"></div>
-<!--------------------------------Banner across top of page------------------------------>
-{| style="width:100%; background:#fcfcfc; margin-top:1.2em; border:1px solid #ccc;"
-|style="width:56%; color:#000"| 
-<!-------------"እንቋዕ ብደሓን መጻእኩም ዊኪፔዲያ" ---------->
-{| style="width:280px; border:solid 0px; background:none;"
-|style="width:280px; text-align:center; white-space:nowrap; color:#000;"|
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">እንቋዕ ብደሓን መጻእኩም!...  [[ዊኪፔዲያ]]</div>
-<div style="top:+0.2em; font-size:95%;">እቲ ኩሉ ብማዕረ [[Wikipedia:Introduction|ዘማዕብሎ]] ናጻ [[መድብል]]።</div>
-<div id="articlecount" style="width:100%; text-align:center; font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] ዛዕባታት [[English language|ብትግሪኛ]]። ሰላም  ንኹልና!</div>
-|}
- 
- 
-<!--------------Portal list on righthand side---------->
-|style="width:11%; font-size:95%; color:#000;"|
-*[[ስነ ጥበብ]]
-*[[ሒሳባዊን ተፈጥሮኣዊ ሳይንስን ]]
-*[[ኮምፒዩተር ሳይንስ]] 
-*[[ምህንድስና]]
-*[[ሕክምና]]
-|style="width:11%; font-size:95%;"|
-*[[ታሪኽ]]
-*[[ንግዲ]]
-*[[መራኸቢ]]
-*[[ሶፍትዌር ምህንድስና]]
-*[[መጓዓዝያ]]
-|style="width:11%; font-size:95%;"|
-*[[ህዝባዊ ጉዳያት]]
-*[[ቴክኖሎጂ(ምዕባለ)]]
-*[[ፖለቲካ]]
-*[[ጥዕና ሳይንስ]]
+{{እንቋዕ ብደሓን መጻእኩም}} 
+{| id="mp-upper" style="width: 100%; margin:6px 0 0 0; background:none; border-spacing: 0px;"
+| style="width:50%; background:#FFFFE0; border:1px solid #EECFA1; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
+<!-----    ምትእትታው ሓተታ   ----->
+{| id="mp-left" style="vertical-align:top; background:#FFFFE0; border-spacing: 0px;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding: 0 0 0 10px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" | ንዕለት ዝተመርጸ ጽሑፍ
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[ፋይል:Nuvola filesystems services.svg|38px|]]</div>
+|-
+| colspan=2 style="color:#000; background:#FFFFE0; padding:15px 5px" | <div style="text-align:left; font-size:95%;"><div id="mf-tfa" title="ንዕለት ዝተመርጸ ጽሑፍ">
+<div style="top:+0.2em; font-weight:100;  font-size:100%; padding:2% 8% "> {{ብሉጽ ጽሑፍ መጀመርያ}}{{ዊኪፔዲያ:Current featured article}}{{ብሉጽ ጽሑፍ መጨረሽታ}} 
 
-*'''[[ኩሎም ዝርዝር መድብላት]]'''
+</font>
+</div>
 |}
-<!------------Strapline immediately below banner---------->
-{|style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
-|style="font-size:95%; padding:10px 0; margin:0px; text-align:left; white-space:nowrap; color:#000;"|
-<!---- [[Wikipedia:About|Overview]]&nbsp;'''·''' [[Wikipedia:Tutorial|Editing]]&nbsp;'''·''' [[Wikipedia:Questions|Questions]]&nbsp;'''·''' [[Help:Contents|Help]]--->
-|style="font-size:95%; padding:10px 0; margin:0px; text-align: right; white-space:nowrap; color:#000;"|
-[[Portal:Contents|Contents]]&nbsp;'''·''' [[Portal:Contents/Categorical index|Categories]]&nbsp;'''·''' [[Portal:Featured content|Featured content]]&nbsp;'''·''' [[Wikipedia:Quick index|A–Z index]]
-|}
-{{Main Page banner}}
-<!---------------------------Today's featured article, Did you know------------------------>
-{|style="border-spacing:8px; margin:0px -8px;"
-|class="MainPageBG" style="width:55%; border:1px solid #cef2e0; background:#f5fffa; vertical-align:top; color:#000;"|
-{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5fffa;"
-! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;"> እዋናዊ ዛዕባ </h2>
+| style="border:1px solid transparent;" |
+| style="width:50%;background:#f5fffa;border:1px solid #99CC33;padding:10px;margin-bottom:7px; vertical-align:top;-moz-border-radius:1em;-webkit-border-radius:1em;border-radius:1em; " | 
+<!-----    መደባት ---->
+{| id="mp-left" style="vertical-align:top; background:#f5fffa; border-spacing: 0px;"
+! style="background:#a5e085; border:1px solid #99CC33; border-right:0px; padding:0 0 0 10px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" | ናይ መደባት ዝርዝር
+! style="background:#a5e085; border:1px solid #99CC33; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[ፋይል:Portal.svg|43px|]]</div>
 |-
-|style="color:#000;"| {{ዊኪፔዲያ:/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
-|-
-! <h2 style="margin:0; background:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">ትፈልጡ ዶ?...</h2>
-|-
-|style="color:#000;"|{{ዛዕባ}}
-|-
-|}
-<!----------------------------------In the news, On this day------------------------------->
-|class="MainPageBG" style="width:45%; border:1px solid #cedff2; background:#f5faff; vertical-align:top"|
-{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:#f5faff;"
-! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">ኣብ ማዕከናት ዜና</h2>
-|-
-|style="color:#000;"| {{ኣብ ማዕከነናት ዜና}}
-|-
-! <h2 style="margin:0; background:#cedff2; font-size:120%; font-weight:bold; border:1px solid #a3b0bf; text-align:left; color:#000; padding:0.2em 0.4em;">ሎሚ ኣብ ታሪኽ መዋእልና...</h2>
-|-
-|style="color:#000;"| {{ዊኪፔዲያ:ሕሩያት መዋእላት ታሪኽ/{{CURRENTMONTHNAME}} {{CURRENTDAY}}}}ሕሩያት 
-|-
+| colspan=2 style="color:#000; background:#f5fffa; padding:0px 5px" | <div style="text-align:left; font-size:95%;"><div id="mf-otd" title="ናይ መደባት ዝርዝር">
+<div style="height: 370px; vertical-align:center; overflow: hidden; padding: 0px; background:transparent ; border: 0px solid #f5fffa;"> </br>  {{WikipediaTOC}}</div>
+</div>
 |}
 |}
-<!--------------------------------Today's featured picture------------------------------->
-{| style="border-spacing:0px; margin:0px 0px; width:100%"
-|class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;"|
-{| cellpadding="2" cellspacing="5" style="vertical-align:top; background:#faf5ff; color:#000; width:100%"
-! <h2 style="margin:0; background:#ddcef2; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em">ሕሪይቲ ስእሊ እዛ ዕለት</h2>
+{| id="mp-upper" style="width: 100%; margin:6px 0 0 0; background:none; border-spacing: 0px;"
+| style="width:50%; style="background:#f5faff;border:1px solid #cedff2;padding:10px;margin-bottom:7px; vertical-align:top;-moz-border-radius:1em;-webkit-border-radius:1em;border-radius:1em; " | 
+<!-----   ትሳተፍ! ----->
+<div id="mp-dyk">
+{| id="mp-left" style="width:100%; margin:0px 0 0 0; background:none; border-spacing:0px;"
+| style="width:50%; background:#f5faff; border:1px solid #8cc2ff; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
+{| id="mp-left" style="vertical-align:top; background:#f5faff; width:100%; border-spacing:0px;"
+! style="background:#cedff2; border:1px solid #8cc2ff; border-right:0px; padding:0px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" |ኣንብብ፣ ጸሓፍ፣ ትሳተፍ።
+! style="background:#cedff2; border:1px solid #8cc2ff; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[ፋይል:Nuvola apps kedit.svg|38px|]]</div>
 |-
-|style="color:#000;"| {{POTD protected/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}
-|-
-|}
-|}<!--
+| colspan=2 style="color:#000; background:#f5faff; padding:2% 7.5%" | 
 
------------------------------Sections at bottom of page------------------------------>
+<div id="my_area" align="center">  <div id="mp-tfa1" style="align:center;border:0px outset #eeeeee; height: 410px; overflow:hidden;vertical-align:Center; padding:2px 0px; background:transparent; -moz-border-radius: 1em; -webkit-border-radius: 1em; border-radius:1em;"><div id="my_area1"  style="overflow:hidden; text-align:left; height: 400px;"> '''ዊኪፔዲያ ብትግርኛ ኣብ 29 ለካቲት 2004 ተጀመረ። ንሱ ኣብዚ ጊዜ [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']] ጽሑፋት ኣለዎ።''' <br/></br> '''ዊኪፔዲያ'''  [[m:List of Wikipedias|ዓለም-ለኻዊ]] ናይ ፍልጠት  መኽዘን መርበብ ገጽ እዩ።  ዊኪፔዲያ ሓባራዊ እዩ። ኩሉ ሰብ ኣብ መዝገበ ፍልጠት ንክሳተፍ ዝተፈቐደ ኣሎ።
+
+ </div>
+|}</div>
+| style="border:1px solid transparent;" |
+| style="width:50%; background:#faf5ff; border:1px solid #CC99FF; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em; " | 
+<!-----    ብሉጽ ምስሊ    ----->
+{| id="mp-left" style="vertical-align:top; background:#faf5ff; border-spacing: 0px;"
+! style="background:#ddcef2; border:1px solid #CC99FF; border-right:0px; padding:0px; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" | ንዕለት ዝተመርጸ ምስሊ
+! style="background:#ddcef2; border:1px solid #CC99FF; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[ፋይል:Image-x-generic.svg|38px|]]</div>
+|-
+| colspan=2 style="color:#000; background:#faf5ff; padding:7%; width:100%" | <div style="text-align:left; font-size:100%; align: center;"><center>
+<div style="height: 300px;  width: 400px; vertical-align:center; overflow: hidden; padding: 10px; background:transparent ; border: 0px solid #f5fffa;">
+{{POTD commons|thumb=no|title=no|float=center}}
+<!-- {{Special:NewPages/5}}--> </center>
+</div>
+</div>
+|}
+
+</div></div>
+
+</div>
+|}
+|}
+<!-----     ናይ ዊኪሜዲያ ምምስራት ካልኦት ፕሮጀክታት   ----->
+<div id="mp-tfp">
+{| id="mp-upper" style="width:100%; margin:6px 0 0 0; background:none; border-spacing:0px;"
+| style="width:50%; background:#fffafa; border:1px solid #ffe147; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
+{| id="mp-left" style="vertical-align:top; background:#fffafa; width:100%; border-spacing:0px;"
+! style="background:#fff1a4; border:1px solid #ffe147; border-right:0px;  padding: 0; font-size:110%; vertical-align:middle; font-weight:bold; width:100%;" |ናይ ዊኪሜዲያ ምምስራት ካልኦት ፕሮጀክታት 
+! style="background:#fff1a4; border:1px solid #ffe147; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[ፋይል:Wikimedia-logo.svg|38px|]]</div>
+|-
+| colspan=2 style="color:#000; background:#fffafa; padding:15px 5px" | <div style="font-size:100%">
+<div style="text-shadow: 0em 0em 0em #333; height: 240px; overflow: hidden; padding: 0px 0px 0px 0px; border: 0px solid #f5fffa;  align: center; background: transparent;"> <center> {{ናይ ዊኪፔዲያ ኣሓት ፕሮጀክታት}} </center> </div>
+
+__NOTOC__ __NOEDITSECTION__
