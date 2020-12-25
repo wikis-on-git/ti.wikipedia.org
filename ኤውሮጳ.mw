@@ -1,61 +1,620 @@
-[[File:Europe_with_flags.png|thumb|250x250px|[[ባንዴራ]] ሃገረ [[ኤውሮጳ]]]]
-[[File:Rectified_Languages_of_Europe_map.png|right|thumb|250x250px]]
-[[File:Grossgliederung_Europas.png|thumb|259x259px]]
-[[File:First.Crusade.Map.jpg|thumb|250x250px|1000.]]
-'''ኤውሮጳ''' ሓንቲ  ክፍለ ዓለም ኢያ። ብ[[ኣፍሪቃ]]ን [[ኣስያ]]ን ድማ ተብኢባ ትርከብ። ኣብ 2015 ልዕሊ 742 ሚልዮን ሰባት ይቅመጥዋ ነይሮም።
+{{ናይ ግዝኣት ሓበሬታ
+|ሽም = ኤውሮጳ
+|ካርታ = {{Imagemap ኤውሮጳ}}
+|ሰፊሕ መሬት = 10,530,751
+|ጻዕቂ = 70
+|ብዝሒ ህዝቢ = 743,704,000
+|ዜግነት ህዝቢ = ኤውሮጳዊ/ -ት
+|ሃገራት = {{Collapsible list|ኣርእስቲ= 50
+|1 = {{Flagcountry|ሃንጋሪ}}<br>{{Flagcountry|ሉክሰምበርግ}}<br>{{Flagcountry|ሊትዌንያ}}<br>{{Flagcountry|ሊኽትንሽታይን}}<br>{{Flagcountry|ላትቭያ}}<br>{{Flagcountry|ማልታ}}<br>{{Flagcountry|ሞልዶቫ}}<br>{{Flagcountry|ሞናኮ}}<br>{{Flagcountry|ሞንተኔግሮ}}<br>{{Flagcountry|ሩማንያ}}<br> {{Flagcountry|ሩስያ}}<br> {{Flagcountry|ሪፓብሊክ ቸክ}}<br>{{Flagcountry|ሰሜን መቄዶንያ}}<br>{{Flagcountry|ሰርብያ}}<br>{{Flagcountry|ሳን ማሪኖ}}<br>{{Flagcountry|ስሎቫክያ}}<br>{{Flagcountry|ስሎቬንያ}}<br>{{Flagcountry|ስዊዘርላንድ}}<br>{{Flagcountry|ስጳኛ}}<br>{{Flagcountry|ሽወደን}}<br>{{Flagcountry|ቆጵሮስ}}<br>{{Flagcountry|ቡልጋርያ}}<br>{{Flagcountry|ቤላሩስ}}<br>{{Flagcountry|ቤልጅዩም}}<br>{{Flagcountry|ብሪጣንያ}}<br>{{Flagcountry|ቦዝንያን ሄርዘጎቪናን}}<br>{{Flagcountry|ኔዘርላንድ}}<br>{{Flagcountry|ኖርወይ}}<br>{{Flagcountry|ኢጣልያ}}<br>{{Flagcountry|ኣልባንያ}}<br>{{Flagcountry|ኣርሜንያ}}<br>{{Flagcountry|ኣንዶራ}}<br>{{Flagcountry|ኣዘርባጃን}}<br>{{Flagcountry|ኣየርላንድ}}<br>{{Flagcountry|ኣይስላንድ}}<br>{{Flagcountry|ኤስቶንያ}}<br>{{Flagcountry|ኦስትርያ}}<br>{{Flagcountry|ከተማ ቫቲካን}}<br>{{Flagcountry|ክሮኤሽያ}}<br>{{Flagcountry|ዩክረይን}}<br>{{Flagcountry|ደንማርክ}}<br>{{Flagcountry|ጀርመን}}<br>{{Flagcountry|ጆርጅያ}}<br>{{Flagcountry|ግሪኽ}}<br>{{Flagcountry|ፈረንሳ}}<br>{{Flagcountry|ፊንላንድ}}<br>{{Flagcountry|ፖላንድ}}<br>{{Flagcountry|ፖርቱጋል}}
+ከም ኣካል ኤውሮጳ ይቆጽሩ'ዮም፦
+{{Flagcountry|ቱርኪ}}<br>{{Flagcountry|ካዛኪስታን}}
+}}
+|ተመርኳስነታት = {{Collapsible list|ኣርእስቲ=6
+|1 = [[ፋይል:Flag of the United Kingdom.svg|20px|border]] [[ኣክሮትሪን ዲከልያን]]<br>{{Flagcountry|ኣይል ኦፍ ማን}}<br>{{Flagcountry|ደሴታት ፋሮ}}<br>{{Flagcountry|ጀርዚ}}<br>{{Flagcountry|ጅብራልታር}}<br>{{Flagcountry|ገርንዚ}}<br>{{Flagcountry|ግሪንላንድ}}
+}}
+|ዘይፍለጡ ሃገራት = {{Collapsible list|ኣርእስቲ=6|text={{Flagcountry|ሪፓብሊክ ኣርትሳኽ}}<br>{{Flagcountry|ቱርካዊት ሪፓብሊክ ሰሜን ቆጵሮስ}}<br>{{Flagcountry|ትራንስኒስትርያ}}<br>{{Flagcountry|ኣብኻዝያ}}<br>{{Flagcountry|ኮሶቮ}}<br>{{Flagcountry|ደቡብ ኦሰትያ}}
+}}
+|ቋንቋታት = '''[[ቋንቋታት ኤውሮጳ]]፦''' {{hlist
+  |[[ቋንቋ ሩስኛ|ሩስኛ]]
+  |[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]
+  |[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]
+  |[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
+  |[[ቋንቋ እንግሊዝኛ|እንግሊዝኛ]]
+  |[[ቋንቋ ስጳንኛ|ስጳንኛ]]
+  |[[ቋንቋ ፖልኛ|ፖልኛ]]
+  |[[ቋንቋ ዩክረይንኛ|ዩክረይንኛ]]
+  |[[ቋንቋ ሩማንኛ|ሩማንኛ]]
+  |[[ቋንቋ ዳች|ዳች]]
+  |[[ቋንቋ ቱርክኛ|ቱርክኛ]]
+  |[[ቋንቋ ግሪኽኛ|ግሪኽኛ]]፣ ወዘተ
+ }}
+|ናይ ግዜ ዞባ = [[ዝተሳነየ ኣድማሳዊ ግዜ|UTC]] ምሉእ ዓመት<br>[[ዝተሳነየ ኣድማሳዊ ግዜ|UTC]]/[[UTC +1]] ኣብ ክረምቲ<br>[[UTC +1]]/[[UTC +2]] ኣብ ክረምቲ<br>[[UTC +2]]/[[UTC +3]] ኣብ ክረምቲ<br>[[UTC +3]] ምሉእ ዓመት<br>[[UTC +4]] ምሉእ ዓመት<br>[[UTC +5]] ምሉእ ዓመት
+|ኢንተርነት = [[.eu]]
+|ዞባዊ ውድባት = [[ኤውሮጳዊ ሕብረት]]፣ ወዘተ።
+}}
+'''ኤውሮጳ''' ሓንቲ  [[ክፍለ ዓለም]] እያ። ብ[[ኣፍሪቃ]]ን [[ኣስያ]]ን ድማ ተብኢባ ትርከብ። ኣብ 2015 ልዕሊ 742 ሚልዮን ሰባት ይቅመጥዋ ነይሮም።
 
-'ኤውሮጳ' - ዝርዝር ሃገራት
-[[File:Europe_on_the_globe_(red).svg|right|200x200px]]
-* [[ኣልባኒያ]]
-* [[ኣንዶራ]]
-* [[ኣርመኒያ]]
-* [[ኣውስትርያ]]
-* [[ኣዘርባጃን]]
-* [[በልጂዩም]]
-* [[ቤላሩስ]]
-* [[ቦዝኒያን ሀርሰጎቪናን]]
-* [[ቡልጋሪያ]]
-* [[ክሮአሺያ]]
-* [[ሳይፕሩስ]]
-* [[ቸሺያ]]
-* [[ዴንማርክ]]
-* [[ኢስቶንያ]]
-* [[ፊንላንድ]]
-* [[ፈረንሳይ]]
-* [[ጆርጂያ]]
-* [[ጀርመን]]
-* [[ጊብራልታር]]
-* [[ዓባይ ብሪጣንያ]]
-* [[ግሪኽ]]
-* [[ሃንጋሪ]]
-* [[ኣይስላንድ]]
-* [[ኢርላንድ]]
-* [[ኢጣልያ]]
-* [[ላቲቫ]]
-* [[ሊሽተንሽታይን]]
-* [[ሊቲወኒያ]]
-* [[ሉክሱምቦርግ]]
-* [[ማከዶኒያ]]
-* [[ማልታ]]
-* [[ሞለዶቫ]]
-* [[ሞናኮ]]
-* [[ሞነቴነግርኦ]]
-* [[ኔዘርላንድ]]
-* [[ኖርወይ]]
-* [[ፖላንድ]]
-* [[ፖርቱጋል]]
-* [[ሮማንያ]]
-* [[ሩስያ]]
-* [[ሳን ሞሪኖ]]
-* [[ሰርቢያ]]
-* [[ስሎቨንያ]]
-* [[ስሎቨኪያ]]
-* [[ስፔን]]
-* [[ሽወደን]]
-* [[ስዊዘርላንድ]]
-* [[ቱርኪ]]
-* [[ቱርኪመንስታን]]
-* [[ዩክረይን]]
-* [[ቫቲካን]]
+== ዝርዝር ሃገራትን ግዝኣታትን ==
+
+{{See also|ዝርዝር ልኡላዊ ሃገራትን ጽግዕተኛ ግዝኣታትን ኣብ ኤውሮጳ}}
+
+ብፖለቲካዊ ኤውሮጳ ብሓምሳ ልኡላዊ (sovereign) ሃገራት፣ ሸሞንተ ሃገራት ምስ ዝተወሰነ ፍልጠትን ሽድሽተ ጽግዕተኛ ግዝኣታትን ዝተመቕላ'ያ።
+
+=== ልኡላዊ ሃገራት ===
+
+{| class="references-small sortable wikitable" style="white-space:nowrap; font-size:85%"
+!
+! ባንዴራ
+! ኣርማ
+! ሽም/ወግዓዊ ሽም
+! ዝተሰረታ
+! [[ዝርዝር ሃገራት ብሰፊሕ መሬት|ሰፊሕ መሬት]]<br>(ትርብዒት ኪ.ሜ.)
+! ብዝሒ ህዝቢ
+! ተቐማጥቲ<br> ብ[[ትርብዒት ኪሎሜተር|ትርብዒት ኪ.ሜ.]]
+! [[ርእሰ ከተማ]]
+! ወግዓዊ<br>ቋንቋ(ታት)
+|-
+| align="center" |1
+| style="text-align:center;"| {{Flagicon|ሃንጋሪ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Arms of Hungary.svg|20px]]
+| style="text-align:center;"| [[ሃንጋሪ]]
+| style="text-align:center;"| 1918
+| style="text-align:right;"| 93,030
+| style="text-align:right;"| 9,797,561
+| style="text-align:right;"| 105.3
+| [[ቡዳፐስት]]
+| [[ቋንቋ ሃንጋርኛ|ሃንጋርኛ]]
+|-
+| align="center" |2
+| style="text-align:center;"| {{Flagicon|ሉክሰምበርግ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:EU Member States' CoA Series- Luxembourg.svg|20px]]
+| style="text-align:center;"| [[ሉክሰምበርግ]] <br>ዓባይ ግዝኣተ መስፍን ሉክሰምበርግ
+| style="text-align:center;"| 1890
+| style="text-align:right;"| 2,586
+| style="text-align:right;"| 602,005
+| style="text-align:right;"| 233.7
+| [[ሉክሰምበርግ (ከተማ)|ከተማ<br>ሉክሰምበርግ]]
+|[[ቋንቋ ሉክሰምበርግኛ|ሉክሰምበርግኛ]]/[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]/<br>[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]
+|-
+| align="center" |3
+| style="text-align:center;"| {{Flagicon|ሊትዌንያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Lithuania.svg|20px]]
+| style="text-align:center;"| [[ሊትዌንያ]] <br>ሪፓብሊክ ሊትዌንያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 65,300
+| style="text-align:right;"| 2,800,667
+| style="text-align:right;"| 45.8
+| [[ቪልንዩስ]]
+|[[ቋንቋ ሊትዌንኛ|ሊትዌንኛ]]
+|-
+| align="center" |4
+| style="text-align:center;"| {{Flagicon|ሊኽትንሽታይን}}
+| style="text-align:center;"| [[ፋይል:Lesser arms of Liechtenstein.svg|20px]]
+| style="text-align:center;"| [[ሊኽትንሽታይን]] <br>ምድረ ልኡል ሊኽትንሽታይን
+| style="text-align:center;"| 1719
+| style="text-align:right;"| 160
+| style="text-align:right;"| 38,111
+| style="text-align:right;"| 227
+| [[ቫዱዝ]]
+|[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]
+|-
+| align="center" |5
+| style="text-align:center;"| {{Flagicon|ላትቭያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Lesser coat of arms of Latvia (escutcheon).svg|20px]]
+| style="text-align:center;"| [[ላትቭያ]] <br>ሪፓብሊክ ላትቭያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 64,589
+| style="text-align:right;"| 1,925,800
+| style="text-align:right;"| 34.3
+| [[ሪጋ]]
+|[[ቋንቋ ላትቭያኛ|ላትቭያኛ]]
+|-
+| align="center" |6
+| style="text-align:center;"| {{Flagicon|ማልታ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Arms of Malta.svg|20px]]
+| style="text-align:center;"| [[ማልታ]] <br>ሪፓብሊክ ማልታ
+| style="text-align:center;"| 1974
+| style="text-align:right;"| 316
+| style="text-align:right;"| 445,426
+| style="text-align:right;"| 1,410
+| [[ቫለታ]]
+|[[ቋንቋ ማልትኛ|ማልትኛ]]/[[ቋንቋ እንግሊዝኛ|እንግሊዝኛ]]
+|-
+| align="center" |7
+| style="text-align:center;"| {{Flagicon|ሞልዶቫ}}
+| style="text-align:center;"| [[ፋይል:Arms of Moldova.svg|20px]]
+| style="text-align:center;"| [[ሞልዶቫ]] <br>ሪፓብሊክ ሞልዶቫ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 33,846
+| style="text-align:right;"| 4,434,547
+| style="text-align:right;"| 131.0
+| [[ኪሺናው]]
+|[[ቋንቋ ሩማንኛ|ሩማንኛ]]
+|-
+| align="center" |8
+| style="text-align:center;"| {{Flagicon|ሞናኮ}}
+| style="text-align:center;"| [[ፋይል:Blason pays Monaco.svg|20px]]
+| style="text-align:center;"| [[ሞናኮ]] <br>ምድረ ልኡል ሞናኮ
+| style="text-align:center;"| 1861
+| style="text-align:right;"| 2.020
+| style="text-align:right;"| 38,400
+| style="text-align:right;"| 18,713
+| [[ሞናኮ-ቪል]]
+|[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]
+|-
+| align="center" |9
+| style="text-align:center;"| {{Flagicon|ሞንተኔግሮ}}
+| style="text-align:center;"| [[ፋይል:Arms of Montenegro.svg|20px]]
+| style="text-align:center;"| [[ሞንተኔግሮ]]
+| style="text-align:center;"| 2006
+| style="text-align:right;"| 13,812
+| style="text-align:right;"| 642,550
+| style="text-align:right;"| 45.0
+| [[ፖድጎሪካ]]
+|[[ቋንቋ ሞንተኔግርኛ|ሞንተኔግርኛ]]
+|-
+| align="center" |10
+| style="text-align:center;"| {{Flagicon|ሩማንያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Romania.svg|20px]]
+| style="text-align:center;"| [[ሩማንያ]]
+| style="text-align:center;"| 1878
+| style="text-align:right;"| 238,397
+| style="text-align:right;"| 19,638,000
+| style="text-align:right;"| 84.4
+| [[ቡካረስት]]
+|[[ቋንቋ ሩማንኛ|ሩማንኛ]]
+|-
+| align="center" |11
+| style="text-align:center;"| {{Flagicon|ሩስያ}}
+| style="text-align:center;"| [[ፋይል:Coat of Arms of the Russian Federation.svg|20px]]
+| style="text-align:center;"| [[ሩስያ]] <br>ፈደረሽን ሩስያ
+| style="text-align:center;"| 1547
+| style="text-align:right;"| 17,098,246
+| style="text-align:right;"| 144,526,636
+| style="text-align:right;"| 8.4
+| [[ሞስኮ]]
+|[[ቋንቋ ሩስኛ|ሩስኛ]]
+|-
+| align="center" |12
+| style="text-align:center;"| {{Flagicon|ሪፓብሊክ ቸክ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Small coat of arms of the Czech Republic.svg|20px]]
+| style="text-align:center;"| [[ሪፓብሊክ ቸክ]]
+| style="text-align:center;"| 1993
+| style="text-align:right;"| 78,866
+| style="text-align:right;"| 10,610,947
+| style="text-align:right;"| 134
+| [[ፕራግ]]
+|[[ቋንቋ ቸክኛ|ቸክኛ]]
+|-
+| align="center" |13
+| style="text-align:center;"| {{Flagicon|ሰሜን መቄዶንያ}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of the Republic of Macedonia.svg|20px]]
+| style="text-align:center;"| [[ሰሜን መቄዶንያ]] <br>ሪፓብሊክ ሰሜን መቄዶንያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 25,713
+| style="text-align:right;"| 2,103,721
+| style="text-align:right;"| 80.1
+| [[ስኮፕየ]]
+|[[ቋንቋ መቄዶንኛ|መቄዶንኛ]]/[[ቋንቋ ኣልባንኛ|ኣልባንኛ]]
+|-
+| align="center" |14
+| style="text-align:center;"| {{Flagicon|ሰርብያ}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Serbia small.svg|20px]]
+| style="text-align:center;"| [[ሰርብያ]] <br>ሪፓብሊክ ሰርብያ
+| style="text-align:center;"| 1878
+| style="text-align:right;"| 88,361
+| style="text-align:right;"| 7,040,272
+| style="text-align:right;"| 91.1
+| [[በልግረይድ]]
+|[[ቋንቋ ሰርብኛ|ሰርብኛ]]
+|-
+| align="center" |15
+| style="text-align:center;"| {{Flagicon|ሳን ማሪኖ}}
+| style="text-align:center;"| [[ፋይል:Insigne Sancti Marini.svg|20px]]
+| style="text-align:center;"| [[ሳን ማሪኖ]] <br>ዝበዝሐ ሰላማዊት ሪፓብሊክ ሳን ማሪኖ
+| style="text-align:center;"| 1243
+| style="text-align:right;"| 61.2
+| style="text-align:right;"| 33,285
+| style="text-align:right;"| 520
+| [[ከተማ ሳን ማሪኖ]]
+|[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
+|-
+| align="center" |16
+| style="text-align:center;"| {{Flagicon|ስሎቫክያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Slovakia.svg|20px]]
+| style="text-align:center;"| [[ስሎቫክያ]] <br>ስሎቫክያዊት ሪፓብሊክ
+| style="text-align:center;"| 1993
+| style="text-align:right;"| 49,035
+| style="text-align:right;"| 5,435,343
+| style="text-align:right;"| 111.0
+| [[ብራቲስላቫ]]
+|[[ቋንቋ ስሎቫክኛ|ስሎቫክኛ]]
+|-
+| align="center" |17
+| style="text-align:center;"| {{Flagicon|ስሎቬንያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Slovenia.svg|20px]]
+| style="text-align:center;"| [[ስሎቬንያ]] <br>ሪፓብሊክ ስሎቬንያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 20,273
+| style="text-align:right;"| 2,066,880
+| style="text-align:right;"| 101.8
+| [[ልዩብልያና]]
+|[[ቋንቋ ስሎቬንኛ|ስሎቬንኛ]]
+|-
+| align="center" |18
+| style="text-align:center;"| {{Flagicon|ስዊዘርላንድ}}
+| style="text-align:center;"| [[ፋይል:Coat of Arms of Switzerland (Pantone).svg|20px]]
+| style="text-align:center;"| [[ስዊዘርላንድ]] <br>ኮንፈደረሽን ስዊዘርላንድ
+| style="text-align:center;"| 1815
+| style="text-align:right;"| 41,285
+| style="text-align:right;"| 8,401,120
+| style="text-align:right;"| 202
+| [[በርን]]
+|[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]/[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]/<br>[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]/[[ቋንቋ ሮማንሽ|ሮማንሽ]]
+|-
+| align="center" |19
+| style="text-align:center;"| {{Flagicon|ስጳኛ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Arms of Spain.svg|20px]]
+| style="text-align:center;"| [[ስጳኛ]] <br>ንግስነት ስጳኛ
+| style="text-align:center;"| 1516
+| style="text-align:right;"| 505,990
+| style="text-align:right;"| 46,698,151
+| style="text-align:right;"| 92
+| [[ማድሪድ]]
+|[[ቋንቋ ስጳንኛ|ስጳንኛ]]/[[ቋንቋ ካታላንኛ|ካታላንኛ]]/<br>[[ቋንቋ ጋሊስኛ|ጋሊስኛ]]/[[ቋንቋ ባስክኛ|ባስክኛ]]
+|-
+| align="center" |20
+| style="text-align:center;"| {{Flagicon|ሽወደን}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Shield of arms of Sweden.svg|20px]]
+| style="text-align:center;"| [[ሽወደን]] <br>ንግስነት ሽወደን
+| style="text-align:center;"| 1523
+| style="text-align:right;"| 450,295
+| style="text-align:right;"| 10,151,588
+| style="text-align:right;"| 22.5
+| [[ስቶክሆልም]]
+|[[ቋንቋ ሽወደንኛ|ሽወደንኛ]]
+|-
+| align="center" |21
+| style="text-align:center;"| {{Flagicon|ቆጵሮስ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Arms of Cyprus.svg|20px]]
+| style="text-align:center;"| [[ቆጵሮስ]] <br>ሪፓብሊክ ቆጵሮስ
+| style="text-align:center;"| 1960
+| style="text-align:right;"| 9,251
+| style="text-align:right;"| 1,170,125
+| style="text-align:right;"| 123.4
+| [[ኒኮስያ]]
+|[[ቋንቋ ግሪኽኛ|ግሪኽኛ]]/[[ቋንቋ ቱርክኛ|ቱርክኛ]]
+|-
+| align="center" |22
+| style="text-align:center;"| {{Flagicon|ቡልጋርያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Bulgaria (version by constitution).svg|20px]]
+| style="text-align:center;"| [[ቡልጋርያ]] <br>ሪፓብሊክ ቡልጋርያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 110,910
+| style="text-align:right;"| 7,101,859
+| style="text-align:right;"| 64.9
+| [[ሶፍያ]]
+|[[ቋንቋ ቡልጋርኛ|ቡልጋርኛ]]
+|-
+| align="center" |23
+| style="text-align:center;"| {{Flagicon|ቤላሩስ}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Belarus.svg|20px]]
+| style="text-align:center;"| [[ቤላሩስ]] <br>ሪፓብሊክ ቤላሩስ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 207,560
+| style="text-align:right;"| 9,504,700
+| style="text-align:right;"| 45.8
+| [[ሚንስክ]]
+|[[ቋንቋ ቤላሩስኛ|ቤላሩስኛ]]/[[ቋንቋ ሩስኛ|ሩስኛ]]
+|-
+| align="center" |24
+| style="text-align:center;"| {{Flagicon|ቤልጅዩም}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Royal Arms of Belgium.svg|20px]]
+| style="text-align:center;"| [[ቤልጅዩም]] <br>ንግስነት ቤልጅዩም
+| style="text-align:center;"| 1830
+| style="text-align:right;"| 30,528
+| style="text-align:right;"| 11,358,357
+| style="text-align:right;"| 372.06
+| [[ብራስልስ]]
+|[[ቋንቋ ዳች|ዳች]]/[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]/<br>[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]
+|-
+| align="center" |25
+| style="text-align:center;"| {{Flagicon|ብሪጣንያ}}
+| style="text-align:center;"| [[ፋይል:Arms of the United Kingdom.svg|20px]]
+| style="text-align:center;"| [[ብሪጣንያ]] <br>ሕቡራት ምድረ ነገስት ዓባይ ብሪጣንያን ሰሜን ኣየርላንድን
+| style="text-align:center;"| 1801
+| style="text-align:right;"| 244,820
+| style="text-align:right;"| 66,040,229
+| style="text-align:right;"| 270.7
+| [[ሎንደን]]
+|[[ቋንቋ እንግሊዝኛ|እንግሊዝኛ]]/[[ቋንቋ ዌልስኛ|ዌልስኛ]]/<br>[[ቋንቋ ስኮትላንዳዊ ጋኤልኛ|ስኮትላንዳዊ ጋኤልኛ]]/[[ቋንቋ ኣየርላንድኛ|ኣየርላንድኛ]]
+|-
+| align="center" |26
+| style="text-align:center;"| {{Flagicon|ቦዝንያን ሄርዘጎቪናን}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Bosnia and Herzegovina.svg|20px]]
+| style="text-align:center;"| [[ቦዝንያን ሄርዘጎቪናን]]
+| style="text-align:center;"| 1992
+| style="text-align:right;"| 51,129
+| style="text-align:right;"| 3,531,159
+| style="text-align:right;"| 68.97
+| [[ሳራየቮ]]
+|[[ቋንቋ ቦዝንያንኛ|ቦዝንያንኛ]]/[[ቋንቋ ክሮኤሽኛ|ክሮኤሽኛ]]/<br>[[ቋንቋ ሰርብኛ|ሰርብኛ]]
+|-
+| align="center" |27
+| style="text-align:center;"| {{Flagicon|ቱርኪ}}
+| style="text-align:center;"| [[ፋይል:Emblem of Turkey.svg|20px]]
+| style="text-align:center;"| [[ቱርኪ]] <br>ሪፓብሊክ ቱርኪ
+| style="text-align:center;"| 1923
+| style="text-align:right;"| 783,356
+| style="text-align:right;"| 80,810,525
+| style="text-align:right;"| 105
+| [[ኣንካራ]]
+|[[ቋንቋ ቱርክኛ|ቱርክኛ]]
+|-
+| align="center" |28
+| style="text-align:center;"| {{Flagicon|ኔዘርላንድ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Royal Arms of the Netherlands.svg|20px]]
+| style="text-align:center;"| [[ኔዘርላንድ]] <br>ንግስነት ኔዘርላንድ
+| style="text-align:center;"| 1815
+| style="text-align:right;"| 41,543
+| style="text-align:right;"| 17,271,990
+| style="text-align:right;"| 414.9
+| [[ኣምስተርዳም]]
+|[[ቋንቋ ዳች|ዳች]]
+|-
+| align="center" |29
+| style="text-align:center;"| {{Flagicon|ኖርወይ}}
+| style="text-align:center;"| [[ፋይል:Blason Norvège.svg|20px]]
+| style="text-align:center;"| [[ኖርወይ]] <br>ንግስነት ኖርወይ
+| style="text-align:center;"| 1905
+| style="text-align:right;"| 385,203
+| style="text-align:right;"| 5,295,619
+| style="text-align:right;"| 15.8
+| [[ኦስሎ]]
+|[[ቋንቋ ኖርወይኛ|ኖርወይኛ]]
+|-
+| align="center" |30
+| style="text-align:center;"| {{Flagicon|ኢጣልያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Emblem of Italy.svg|20px]]
+| style="text-align:center;"| [[ኢጣልያ]] <br>ኢጣልያዊት ሪፓብሊክ
+| style="text-align:center;"| 1861
+| style="text-align:right;"| 301,338
+| style="text-align:right;"| 60,589,445
+| style="text-align:right;"| 201.3
+| [[ሮማ]]
+|[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
+|-
+| align="center" |31
+| style="text-align:center;"| {{Flagicon|ኣልባንያ}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Albania.svg|20px]]
+| style="text-align:center;"| [[ኣልባንያ]] <br>ሪፓብሊክ ኣልባንያ
+| style="text-align:center;"| 1912
+| style="text-align:right;"| 28,748
+| style="text-align:right;"| 2,876,591
+| style="text-align:right;"| 98.5
+| [[ቲራና]]
+|[[ቋንቋ ኣልባንኛ|ኣልባንኛ]]
+|-
+| align="center" |32
+| style="text-align:center;"| {{Flagicon|ኣርሜንያ}}
+| style="text-align:center;"| [[ፋይል:Arms of Armenia.svg|20px]]
+| style="text-align:center;"| [[ኣርሜንያ]] <br>ሪፓብሊክ ኣርሜንያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 29,743
+| style="text-align:right;"| 2,924,816
+| style="text-align:right;"| 101.5
+| [[የረቫን]]
+|[[ቋንቋ ኣርሜንኛ|ኣርሜንኛ]]
+|-
+| align="center" |33
+| style="text-align:center;"| {{Flagicon|ኣንዶራ}}
+| style="text-align:center;"| [[ፋይል:Arms of Andorra.svg|20px]]
+| style="text-align:center;"| [[ኣንዶራ]] <br>ምድረ ልኡል ኣንዶራ
+| style="text-align:center;"| 1278
+| style="text-align:right;"| 468
+| style="text-align:right;"| 77,281
+| style="text-align:right;"| 179.8
+| [[ኣንዶራ ላ ቬላ]]
+|[[ቋንቋ ካታላንኛ|ካታላንኛ]]
+|-
+| align="center" |34
+| style="text-align:center;"| {{Flagicon|ኣዘርባጃን}}
+| style="text-align:center;"| [[ፋይል:Insigne Atropatenae.svg|20px]]
+| style="text-align:center;"| [[ኣዘርባጃን]] <br>ሪፓብሊክ ኣዘርባጃን
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 86,600
+| style="text-align:right;"| 9,911,646
+| style="text-align:right;"| 113
+| [[ባኩ]]
+|[[ቋንቋ ኣዘርኛ|ኣዘርኛ]]
+|-
+| align="center" |35
+| style="text-align:center;"| {{Flagicon|ኣየርላንድ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Arms of the Republic of Ireland.svg|20px]]
+| style="text-align:center;"| [[ኣየርላንድ]] <br>ሪፓብሊክ ኣየርላንድ
+| style="text-align:center;"| 1937
+| style="text-align:right;"| 70,280
+| style="text-align:right;"| 4,761,865
+| style="text-align:right;"| 67.7
+| [[ደብሊን]]
+|[[ቋንቋ ኣየርላንድኛ|ኣየርላንድኛ]]/[[ቋንቋ እንግሊዝኛ|እንግሊዝኛ]]
+|-
+| align="center" |36
+| style="text-align:center;"| {{Flagicon|ኣይስላንድ}}
+| style="text-align:center;"| [[ፋይል:Arms of Iceland.svg|20px]]
+| style="text-align:center;"| [[ኣይስላንድ]]
+| style="text-align:center;"| 1944
+| style="text-align:right;"| 103,000
+| style="text-align:right;"| 350,710
+| style="text-align:right;"| 3.2
+| [[ረይክያቪክ]]
+|[[ቋንቋ ኣይስላንድኛ|ኣይስላንድኛ]]
+|-
+| align="center" |37
+| style="text-align:center;"| {{Flagicon|ኤስቶንያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Small coat of arms of Estonia.svg|20px]]
+| style="text-align:center;"| [[ኤስቶንያ]] <br>ሪፓብሊክ ኤስቶንያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 45,226
+| style="text-align:right;"| 1,319,133
+| style="text-align:right;"| 28
+| [[ታሊን]]
+|[[ቋንቋ ኤስቶንኛ|ኤስቶንኛ]]
+|-
+| align="center" |38
+| style="text-align:center;"| {{Flagicon|ኦስትርያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Austria coat of arms official.svg|20px]]
+| style="text-align:center;"| [[ኦስትርያ]] <br>ሪፓብሊክ ኦስትርያ
+| style="text-align:center;"| 1918
+| style="text-align:right;"| 83,858
+| style="text-align:right;"| 8,823,054
+| style="text-align:right;"| 104
+| [[ቭየና]]
+|[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]
+|-
+| align="center" |39
+| style="text-align:center;"| {{Flagicon|ከተማ ቫቲካን}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of the Vatican City.svg|20px]]
+| style="text-align:center;"| [[ከተማ ቫቲካን]] <br>መንግስተ-ከተማ ቫቲካን
+| style="text-align:center;"| 1929
+| style="text-align:right;"| 0.44
+| style="text-align:right;"| 1,000
+| style="text-align:right;"| 2,272
+| ከተማ ቫቲካን
+|[[ላቲን]]/[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
+|-
+| align="center" |40
+| style="text-align:center;"| {{Flagicon|ካዛኪስታን}}
+| style="text-align:center;"| [[ፋይል:Emblem of Kazakhstan latin.svg|20px]]
+| style="text-align:center;"| [[ካዛኪስታን]] <br>ሪፓብሊክ ካዛኪስታን
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 2,724,900
+| style="text-align:right;"| 17,987,736
+| style="text-align:right;"| 6.49
+| [[ኑር-ሱልታን]]
+|[[ቋንቋ ካዛክኛ|ካዛክኛ]]/[[ቋንቋ ሩስኛ|ሩስኛ]]
+|-
+| align="center" |41
+| style="text-align:center;"| {{Flagicon|ክሮኤሽያ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Croatia.svg|20px]]
+| style="text-align:center;"| [[ክሮኤሽያ]] <br>ሪፓብሊክ ክሮኤሽያ
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 56,542
+| style="text-align:right;"| 4,284,889
+| style="text-align:right;"| 75.8
+| [[ዛግረብ]]
+|[[ቋንቋ ክሮኤሽኛ|ክሮኤሽኛ]]
+|-
+| align="center" |42
+| style="text-align:center;"| {{Flagicon|ዩክረይን}}
+| style="text-align:center;"| [[ፋይል:Lesser Coat of Arms of Ukraine.svg|20px]]
+| style="text-align:center;"| [[ዩክረይን]]
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 603,628
+| style="text-align:right;"| 42,418,235
+| style="text-align:right;"| 73.8
+| [[ክየቭ]]
+|[[ቋንቋ ዩክረይንኛ|ዩክረይንኛ]]
+|-
+| align="center" |43
+| style="text-align:center;"| {{Flagicon|ደንማርክ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:National Coat of arms of Denmark no crown.svg|20px]]
+| style="text-align:center;"| [[ደንማርክ]] <br>ንግስነት ደንማርክ
+| style="text-align:center;"| 935
+| style="text-align:right;"| 43,094
+| style="text-align:right;"| 5,748,796
+| style="text-align:right;"| 133.9
+| [[ኮፐንሃገን]]
+|[[ቋንቋ ዳንኛ|ዳንኛ]]/[[ቋንቋ ፋሮኛ|ፋሮኛ]]/<br>[[ቋንቋ ግሪንላንድኛ|ግሪንላንድኛ]]
+|-
+| align="center" |44
+| style="text-align:center;"| {{Flagicon|ጀርመን}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of arms of Germany.svg|20px]]
+| style="text-align:center;"| [[ጀርመን]] <br>ፈደራላዊት ሪፓብሊክ ጀርመን
+| style="text-align:center;"| 1871
+| style="text-align:right;"| 357,168
+| style="text-align:right;"| 82,800,000
+| style="text-align:right;"| 232
+| [[በርሊን]]
+|[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]
+|-
+| align="center" |45
+| style="text-align:center;"| {{Flagicon|ጆርጅያ}}
+| style="text-align:center;"| [[ፋይል:Arms of Georgia.svg|20px]]
+| style="text-align:center;"| [[ጆርጅያ]]
+| style="text-align:center;"| 1991
+| style="text-align:right;"| 69,700
+| style="text-align:right;"| 3,718,200
+| style="text-align:right;"| 53.5
+| [[ትብሊሲ]]
+|[[ቋንቋ ጆርጅኛ|ጆርጅኛ]]
+|-
+| align="center" |46
+| style="text-align:center;"| {{Flagicon|ግሪኽ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Lesser coat of arms of Greece.svg|20px]]
+| style="text-align:center;"| [[ግሪኽ]] <br>ሄለኒካዊት ሪፓብሊክ
+| style="text-align:center;"| 1832
+| style="text-align:right;"| 131,957
+| style="text-align:right;"| 10,768,477
+| style="text-align:right;"| 82
+| [[ኣቴንስ]]
+|[[ቋንቋ ግሪኽኛ|ግሪኽኛ]]
+|-
+| align="center" |47
+| style="text-align:center;"| {{Flagicon|ፈረንሳ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Arms of the French Republic.svg|20px]]
+| style="text-align:center;"| [[ፈረንሳ]] <br>ፈረንሳዊት ሪፓብሊክ
+| style="text-align:center;"| 843
+| style="text-align:right;"| 547,030
+| style="text-align:right;"| 67,348,000
+| style="text-align:right;"| 116
+| [[ፓሪስ]]
+|[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]
+|-
+| align="center" |48
+| style="text-align:center;"| {{Flagicon|ፊንላንድ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Coat of Arms of Finland Alternative style.svg|20px]]
+| style="text-align:center;"| [[ፊንላንድ]] <br>ሪፓብሊክ ፊንላንድ
+| style="text-align:center;"| 1918
+| style="text-align:right;"| 338,455
+| style="text-align:right;"| 5,509,717
+| style="text-align:right;"| 16
+| [[ሄልሲንኪ]]
+|[[ቋንቋ ፊንኛ|ፊንኛ]]/[[ቋንቋ ሽወደንኛ|ሽወደንኛ]]
+|-
+| align="center" |49
+| style="text-align:center;"| {{Flagicon|ፖላንድ}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Herb Polski.svg|20px]]
+| style="text-align:center;"| [[ፖላንድ]]
+| style="text-align:center;"| 1918
+| style="text-align:right;"| 312,685
+| style="text-align:right;"| 38,422,346
+| style="text-align:right;"| 123.5
+| [[ዋርሳው]]
+|[[ቋንቋ ፖልኛ|ፖልኛ]]
+|-
+| align="center" |50
+| style="text-align:center;"| {{Flagicon|ፖርቱጋል}} {{Flagicon|ኤውሮጳዊ ሕብረት}}
+| style="text-align:center;"| [[ፋይል:Shield of the Kingdom of Portugal (1481-1910).png|20px]]
+| style="text-align:center;"| [[ፖርቱጋል]] <br>ፖርቱጋላዊት ሪፓብሊክ
+| style="text-align:center;"| 1139
+| style="text-align:right;"| 92,212
+| style="text-align:right;"| 10,379,537
+| style="text-align:right;"| 115
+| [[ሊዝቦን]]
+|[[ቋንቋ ፖርቱጊዝኛ|ፖርቱጊዝኛ]]
+|-class="sortbottom" style="font-weight:bold;"
+| style="text-align:right;"|
+| style="text-align:right;"|
+| style="text-align:right;"|
+| style="text-align:right;"|
+| style="text-align:center;"| ጠቕላላ
+| style="text-align:right;"| 10,180,000
+| style="text-align:right;"| 743,000,000
+| style="text-align:right;"| 73
+| style="text-align:right;"|
+| colspan="2" |
+|}
 
 [[Category:ኤውሮጳ]]
