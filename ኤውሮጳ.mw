@@ -1,5 +1,5 @@
 {{ሓበሬታ ግዝኣት
-|ሽም = ኤውሮጳ
+|ስም = ኤውሮጳ
 |ካርታ = {{Imagemap ኤውሮጳ}}
 |ስፍሓት = 10,530,751
 |ብዝሒ ህዝቢ = 749,878,120<ref>{{cite web|url=https://countrymeters.info/en/Europe |title=countrymeters.info}}</ref>
@@ -7,49 +7,38 @@
 |ጻዕቂ = 70
 |ዜግነት ህዝቢ = ኤውሮጳዊ/ -ት
 |ሃገራት = {{Collapsible list|ኣርእስቲ= 50
-|1 = {{Flagcountry|ሃንጋሪ}}<br>{{Flagcountry|ሉክሰምበርግ}}<br>{{Flagcountry|ሊትዌንያ}}<br>{{Flagcountry|ሊኽትንሽታይን}}<br>{{Flagcountry|ላትቭያ}}<br>{{Flagcountry|ማልታ}}<br>{{Flagcountry|ሞልዶቫ}}<br>{{Flagcountry|ሞናኮ}}<br>{{Flagcountry|ሞንተኔግሮ}}<br>{{Flagcountry|ሩማንያ}}<br> {{Flagcountry|ሩስያ}}<br> {{Flagcountry|ሪፓብሊክ ቸክ}}<br>{{Flagcountry|ሰሜን መቄዶንያ}}<br>{{Flagcountry|ሰርብያ}}<br>{{Flagcountry|ሳን ማሪኖ}}<br>{{Flagcountry|ስሎቫክያ}}<br>{{Flagcountry|ስሎቬንያ}}<br>{{Flagcountry|ስዊዘርላንድ}}<br>{{Flagcountry|ስጳኛ}}<br>{{Flagcountry|ሽወደን}}<br>{{Flagcountry|ቆጵሮስ}}<br>{{Flagcountry|ቡልጋርያ}}<br>{{Flagcountry|ቤላሩስ}}<br>{{Flagcountry|ቤልጅዩም}}<br>{{Flagcountry|ብሪጣንያ}}<br>{{Flagcountry|ቦዝንያን ሄርዘጎቪናን}}<br>{{Flagcountry|ኔዘርላንድ}}<br>{{Flagcountry|ኖርወይ}}<br>{{Flagcountry|ኢጣልያ}}<br>{{Flagcountry|ኣልባንያ}}<br>{{Flagcountry|ኣርሜንያ}}<br>{{Flagcountry|ኣንዶራ}}<br>{{Flagcountry|ኣዘርባጃን}}<br>{{Flagcountry|ኣየርላንድ}}<br>{{Flagcountry|ኣይስላንድ}}<br>{{Flagcountry|ኤስቶንያ}}<br>{{Flagcountry|ኦስትርያ}}<br>{{Flagcountry|ከተማ ቫቲካን}}<br>{{Flagcountry|ክሮኤሽያ}}<br>{{Flagcountry|ዩክረይን}}<br>{{Flagcountry|ደንማርክ}}<br>{{Flagcountry|ጀርመን}}<br>{{Flagcountry|ጆርጅያ}}<br>{{Flagcountry|ግሪኽ}}<br>{{Flagcountry|ፈረንሳ}}<br>{{Flagcountry|ፊንላንድ}}<br>{{Flagcountry|ፖላንድ}}<br>{{Flagcountry|ፖርቱጋል}}
+|1 = {{Flagcountry|ሃንጋሪ}}<br>{{Flagcountry|ሉክሰምበርግ}}<br>{{Flagcountry|ሊትዌንያ}}<br>{{Flagcountry|ሊኽትንሽታይን}}<br>{{Flagcountry|ላትቭያ}}<br>{{Flagcountry|ማልታ}}<br>{{Flagcountry|ሞልዶቫ}}<br>{{Flagcountry|ሞናኮ}}<br>{{Flagcountry|ሞንተኔግሮ}}<br>{{Flagcountry|ሩማንያ}}<br> {{Flagcountry|ሩስያ}}<br> {{Flagcountry|ሪፓብሊክ ቸክ}}<br>{{Flagcountry|ሰሜን መቄዶንያ}}<br>{{Flagcountry|ሰርብያ}}<br>{{Flagcountry|ሳን ማሪኖ}}<br>{{Flagcountry|ስሎቫክያ}}<br>{{Flagcountry|ስሎቬንያ}}<br>{{Flagcountry|ስዊዘርላንድ}}<br>{{Flagcountry|ስጳኛ}}<br>{{Flagcountry|ሽወደን}}<br>{{Flagcountry|ቆጵሮስ}}<br>{{Flagcountry|ቡልጋርያ}}<br>{{Flagcountry|ቤላሩስ}}<br>{{Flagcountry|ቤልጅዩም}}<br>{{Flagcountry|ብሪጣንያ}}<br>{{Flagcountry|ቦዝንያን ሄርዘጎቪናን}}<br>{{Flagcountry|ኔዘርላንድ}}<br>{{Flagcountry|ኖርወይ}}<br>{{Flagcountry|ኢጣልያ}}<br>{{Flagcountry|ኣልባንያ}}<br>{{Flagcountry|ኣርሜንያ}}<br>{{Flagcountry|ኣንዶራ}}<br>{{Flagcountry|ኣዘርባጃን}}<br>{{Flagcountry|ኣየርላንድ}}<br>{{Flagcountry|ኣይስላንድ}}<br>{{Flagcountry|ኤስቶንያ}}<br>{{Flagcountry|ኦስትርያ}}<br>{{Flagcountry|ከተማ ቫቲካን}}<br>{{Flagcountry|ክሮኤሽያ}}<br>{{Flagcountry|ዩክሬን}}<br>{{Flagcountry|ደንማርክ}}<br>{{Flagcountry|ጀርመን}}<br>{{Flagcountry|ጆርጅያ}}<br>{{Flagcountry|ግሪኽ}}<br>{{Flagcountry|ፈረንሳ}}<br>{{Flagcountry|ፊንላንድ}}<br>{{Flagcountry|ፖላንድ}}<br>{{Flagcountry|ፖርቱጋል}}
 ከም ኣካል ኤውሮጳ ይቆጽራ'የን፦
 {{Flagcountry|ቱርኪ}}<br>{{Flagcountry|ካዛኪስታን}}
 }}
-|ተመርኳስነታት = {{Collapsible list|ኣርእስቲ=6
-|1 = [[ፋይል:Flag of the United Kingdom.svg|20px|border]] [[ኣክሮትሪን ዲከልያን]]<br>{{Flagcountry|ኣይል ኦፍ ማን}}<br>{{Flagcountry|ደሴታት ፋሮ}}<br>{{Flagcountry|ጀርዚ}}<br>{{Flagcountry|ጅብራልታር}}<br>{{Flagcountry|ገርንዚ}}<br>{{Flagcountry|ግሪንላንድ}}
+|ጽግዕተኛታት = {{Collapsible list|ኣርእስቲ=7
+|1 = [[ፋይል:Flag of the United Kingdom.svg|20px|border]] [[ኣክሮትሪን ዲከልያን]]<br>{{Flagcountry|ኣይል ኦፍ ማን}}<br>{{Flagcountry|ደሴታት ፋሮ}}<br>{{Flagcountry|ጀርዚ}}<br>{{Flagcountry|ጂብራልታር}}<br>{{Flagcountry|ገርንዚ}}<br>{{Flagcountry|ግሪንላንድ}}
 }}
-|ዘይተፈልጣ ሃገራት = {{Collapsible list|ኣርእስቲ=6|text={{Flagcountry|ሪፓብሊክ ኣርትሳኽ}}<br>{{Flagcountry|ቱርካዊት ሪፓብሊክ ሰሜን ቆጵሮስ}}<br>{{Flagcountry|ትራንስኒስትርያ}}<br>{{Flagcountry|ኣብኻዝያ}}<br>{{Flagcountry|ኮሶቮ}}<br>{{Flagcountry|ደቡብ ኦሰትያ}}
+|ኣፍልጦ ዘይረኸባ ሃገራት = {{Collapsible list|ኣርእስቲ=8|text={{Flagcountry|ህዝባዊት ሪፓብሊክ ሉሃንስክ}}<br>{{Flagcountry|ሪፓብሊክ ኣርትሳኽ}}<br>{{Flagcountry|ቱርካዊት ሪፓብሊክ ሰሜን ቆጵሮስ}}<br>{{Flagcountry|ትራንስኒስትርያ}}<br>{{Flagcountry|ኣብካዝያ}}<br>{{Flagcountry|ኮሶቮ}}<br>{{Flagcountry|ደቡብ ኦሰትያ}}<br>{{Flagcountry|ህዝባዊት ሪፓብሊክ ዶኔትስክ}}
 }}
-|ቋንቋታት = '''[[ቋንቋታት ኤውሮጳ]]፦''' {{hlist
-  |[[ቋንቋ ሩስኛ|ሩስኛ]]
-  |[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]
-  |[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]
-  |[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
-  |[[ቋንቋ እንግሊዝኛ|እንግሊዝኛ]]
-  |[[ቋንቋ ስጳንኛ|ስጳንኛ]]
-  |[[ቋንቋ ፖልኛ|ፖልኛ]]
-  |[[ቋንቋ ዩክረይንኛ|ዩክረይንኛ]]
-  |[[ቋንቋ ሩማንኛ|ሩማንኛ]]
-  |[[ቋንቋ ዳች|ዳች]]
-  |[[ቋንቋ ቱርክኛ|ቱርክኛ]]
-  |[[ቋንቋ ግሪኽኛ|ግሪኽኛ]]፣ ወዘተ
- }}
+|ቋንቋታት = '''[[ቋንቋታት ኤውሮጳ]]፦''' [[ቋንቋ ሩስኛ|ሩስኛ]]፣ [[ቋንቋ ጀርመንኛ|ጀርመንኛ]]፣ [[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]፣ [[ቋንቋ እንግሊዝኛ|እንግሊዝኛ]]፣ [[ቋንቋ ስጳንኛ|ስጳንኛ]]፣ [[ቋንቋ ፖላንድኛ|ፖላንድኛ]]፣ [[ቋንቋ ዩክሬንኛ|ዩክሬንኛ]]፣ [[ቋንቋ ሩማንኛ|ሩማንኛ]]፣ [[ቋንቋ ዳች|ዳች]]፣ [[ቋንቋ ቱርክኛ|ቱርክኛ]]፣ [[ቋንቋ ግሪኽኛ|ግሪኽኛ]]፣ [[ቋንቋ ጥልያን|ጥልያን]]፣ ወዘተ
 |ዞባ ግዜ = [[ዝተሳነየ ኣድማሳዊ ግዜ|UTC]] ምሉእ ዓመት<br>[[ዝተሳነየ ኣድማሳዊ ግዜ|UTC]]/[[UTC +1]] ኣብ ክረምቲ<br>[[UTC +1]]/[[UTC +2]] ኣብ ክረምቲ<br>[[UTC +2]]/[[UTC +3]] ኣብ ክረምቲ<br>[[UTC +3]] ምሉእ ዓመት<br>[[UTC +4]] ምሉእ ዓመት<br>[[UTC +5]] ምሉእ ዓመት
 |ኢንተርነት = [[.eu]]
-|ዞባዊ ውድባት = [[ኤውሮጳዊ ሕብረት]]፣ ወዘተ።
+|ዞባዊ ውድባት = [[ኤውሮጳዊ ሕብረት]]፣ [[ቤት ምኽሪ ኤውሮጳ]] ወዘተ።
 }}
-'''ኤውሮጳ''' ሓንቲ  [[ክፍለ ዓለም]] እያ። ብ[[ኣፍሪቃ]]ን [[ኤስያ]]ን ድማ ተብኢባ ትርከብ። ኣብ 2018 ልዕሊ 746 ሚልዮን ሰባት ይቅመጥዋ ነይሮም።
+'''ኤውሮጳ''' ምሉእ ብምሉእ ኣብ [[ሰሜናዊ ንፍቀ ክቢ]] መብዛሕትኡ ከኣ ኣብ [[ምብራቓዊ ንፍቀ ክቢ]] እትርከብ [[ክፍለ ዓለም]] እያ።
+
+ኤውሮጳ ብስፍሓት ከባቢ ካልኣይቲ ዝነኣሰት ክፍለ ዓለም እያ።
 
 == ዝርዝር ሃገራትን ግዝኣታትን ==
 
-{{See also|ዝርዝር ልኡላዊ ሃገራትን ጽግዕተኛ ግዝኣታትን ኣብ ኤውሮጳ}}
+{{See also|ዝርዝር ልኡላውያን ሃገራትን ጽግዕተኛ ግዝኣታትን ኣብ ኤውሮጳ}}
 
-ብፖለቲካዊ ኤውሮጳ ብሓምሳ ልኡላዊ (sovereign) ሃገራት፣ ሸሞንተ ሃገራት ምስ ዝተወሰነ ፍልጠትን ሽድሽተ ጽግዕተኛ ግዝኣታትን ዝተመቕላ'ያ።
+ኤውሮጳ ብፖለቲካ ኣብ ሓምሳ ልኡላውያን ሃገራት፣ ሸሞንተ ሃገራት ውሱን ኣፍልጦ ዘለወን፣ ሽድሽተ ጽግዕተኛታት ግዝኣታት ከምኡውን ኣብ ሰለስተ ርእሰን ዝኸኣላ ዞባታት ኣብ ኤውሮጳዊ ሕብረት ተዋሃሂደን ትምቀል።
 
-=== ልኡላዊ ሃገራት ===
+=== ልኡላውያን ሃገራት ===
 
 {| class="references-small sortable wikitable" style="white-space:nowrap; font-size:90%"
 !
 ! ባንዴራ
 ! ኣርማ
-! ሽም/ወግዓዊ ሽም
-! ዝተሰረታ
+! ስም/ወግዓዊ ስም
+! ተመስሪታ
 ! [[ዝርዝር ሃገራት ብስፍሓት|ስፍሓት]]<br>(ትርብዒት ኪ.ሜ.)
 ! ብዝሒ ህዝቢ
 ! ተቐማጥቲ<br> ብ[[ትርብዒት ኪሎሜተር|ትርብዒት ኪ.ሜ.]]
@@ -90,9 +79,9 @@
 |[[ቋንቋ ሊትዌንኛ|ሊትዌንኛ]]
 |-
 | align="center" |4
-| style="text-align:center;"| {{Flagdeco|ሊኽትንሽታይን}}
+| style="text-align:center;"| {{Flagdeco|ሊኽተንሽታይን}}
 | style="text-align:center;"| [[ፋይል:Lesser arms of Liechtenstein.svg|20px]]
-| style="text-align:center;"| [[ሊኽትንሽታይን]] <br>ምድረ ልኡል ሊኽትንሽታይን
+| style="text-align:center;"| [[ሊኽተንሽታይን]] <br>ምድረ ልኡል ሊኽተንሽታይን
 | style="text-align:center;"| 1719
 | style="text-align:right;"| 160
 | style="text-align:right;"| 38,111
@@ -213,13 +202,13 @@
 | align="center" |15
 | style="text-align:center;"| {{Flagdeco|ሳን ማሪኖ}}
 | style="text-align:center;"| [[ፋይል:Insigne Sancti Marini.svg|20px]]
-| style="text-align:center;"| [[ሳን ማሪኖ]] <br>ዝበዝሐ ሰላማዊት ሪፓብሊክ ሳን ማሪኖ
+| style="text-align:center;"| [[ሳን ማሪኖ]] <br>ዝበዝሐት ሰላማዊት ሪፓብሊክ ሳን ማሪኖ
 | style="text-align:center;"| 1243
 | style="text-align:right;"| 61.2
 | style="text-align:right;"| 33,285
 | style="text-align:right;"| 520
 | [[ከተማ ሳን ማሪኖ]]
-|[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
+|[[ቋንቋ ጥልያን|ጥልያን]]
 |-
 | align="center" |16
 | style="text-align:center;"| {{Flagdeco|ስሎቫክያ}} {{Flagdeco|ኤውሮጳዊ ሕብረት}}
@@ -252,7 +241,7 @@
 | style="text-align:right;"| 8,401,120
 | style="text-align:right;"| 202
 | [[በርን]]
-|[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]/[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]/<br>[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]/[[ቋንቋ ሮማንሽ|ሮማንሽ]]
+|[[ቋንቋ ጀርመንኛ|ጀርመንኛ]]/[[ቋንቋ ፈረንሳይኛ|ፈረንሳይኛ]]/<br>[[ቋንቋ ጥልያን|ጥልያን]]/[[ቋንቋ ሮማንሽ|ሮማንሽ]]
 |-
 | align="center" |19
 | style="text-align:center;"| {{Flagdeco|ስጳኛ}} {{Flagdeco|ኤውሮጳዊ ሕብረት}}
@@ -384,7 +373,7 @@
 | style="text-align:right;"| 60,589,445
 | style="text-align:right;"| 201.3
 | [[ሮማ]]
-|[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
+|[[ቋንቋ ጥልያን|ጥልያን]]
 |-
 | align="center" |31
 | style="text-align:center;"| {{Flagdeco|ኣልባንያ}}
@@ -483,7 +472,7 @@
 | style="text-align:right;"| 1,000
 | style="text-align:right;"| 2,272
 | ከተማ ቫቲካን
-|[[ላቲን]]/[[ቋንቋ ኢጣልያንኛ|ኢጣልያንኛ]]
+|[[ላቲን]]/[[ቋንቋ ጥልያን|ጥልያን]]
 |-
 | align="center" |40
 | style="text-align:center;"| {{Flagdeco|ካዛኪስታን}}
@@ -508,15 +497,15 @@
 |[[ቋንቋ ክሮኤሽኛ|ክሮኤሽኛ]]
 |-
 | align="center" |42
-| style="text-align:center;"| {{Flagdeco|ዩክረይን}}
+| style="text-align:center;"| {{Flagdeco|ዩክሬን}}
 | style="text-align:center;"| [[ፋይል:Lesser Coat of Arms of Ukraine.svg|20px]]
-| style="text-align:center;"| [[ዩክረይን]]
+| style="text-align:center;"| [[ዩክሬን]]
 | style="text-align:center;"| 1991
 | style="text-align:right;"| 603,628
 | style="text-align:right;"| 42,418,235
 | style="text-align:right;"| 73.8
-| [[ክየቭ]]
-|[[ቋንቋ ዩክረይንኛ|ዩክረይንኛ]]
+| [[ኪየቭ]]
+|[[ቋንቋ ዩክሬንኛ|ዩክሬንኛ]]
 |-
 | align="center" |43
 | style="text-align:center;"| {{Flagdeco|ደንማርክ}} {{Flagdeco|ኤውሮጳዊ ሕብረት}}
@@ -593,7 +582,7 @@
 | style="text-align:right;"| 38,422,346
 | style="text-align:right;"| 123.5
 | [[ዋርሳው]]
-|[[ቋንቋ ፖልኛ|ፖልኛ]]
+|[[ቋንቋ ፖላንድኛ|ፖላንድኛ]]
 |-
 | align="center" |50
 | style="text-align:center;"| {{Flagdeco|ፖርቱጋል}} {{Flagdeco|ኤውሮጳዊ ሕብረት}}
